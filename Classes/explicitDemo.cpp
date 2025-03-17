@@ -47,7 +47,9 @@ int main(){
    else{
       cout<<"Volume of box2 is greater"<<endl;
    }
-   
+   // a copy construtor creates an object from an existing object of same type.
+   // Cube cube1(20)
+   // Cube cube2(cube1)
    return 0;
 
 }
